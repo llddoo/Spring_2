@@ -18,8 +18,8 @@ public class RobotTest {
 	@Test
 	public void test() {
 		//left_arm의 name
-		//right_arm의 name
 		System.out.println(robot.getArm_Left().getName());
+		//right_arm의 name
 		System.out.println(robot.getArm_Right().getName());
 	}
 
